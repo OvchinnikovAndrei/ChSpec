@@ -49,10 +49,4 @@ void PrintArray(string[] array)
         }    
     Console.Write("]");
     Console.WriteLine();
-
-    // for (int i = 0; i < array.Length; i++)
-    // {
-    //     Console.Write($"{array[i]}, ");
-    // }
-    // Console.WriteLine();
 }
